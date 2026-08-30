@@ -198,27 +198,6 @@
 └─ status: live
 ```
 
-```console
-┌─[ 04 ]─[ LIFE RESET ]─[ BUILDING ]
-│
-│  66 day habit tracker built like a leveling system.
-│  Streaks XP and ranks because discipline needs a progress bar.
-│
-│  stack   Next.js · Supabase · PWA
-│
-└─ dark RPG aesthetic
-```
-
-```console
-┌─[ 05 ]─[ CAISSE ]─[ DEPLOYED ]
-│
-│  Offline desktop POS and stock manager for a real shop.
-│  Barcode scanner in. Thermal receipt out. No internet required.
-│
-│  stack   Electron · React · TypeScript · SQLite
-│
-└─ cross compiled from Arch to Windows because of course it is
-```
 
 ---
 
