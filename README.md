@@ -239,9 +239,7 @@
 
 <a href="mailto:info.bichiou.yahya@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0D1117" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=0D1117" /></a>
-<a href="https://app.hackthebox.com/profile/YOUR-HTB-ID">
+<a href="https://www.linkedin.com/in/yahya-bichiou/">
 <img src="https://img.shields.io/badge/HACK%20THE%20BOX-0D1117?style=for-the-badge&logo=hackthebox&logoColor=A78BFA&labelColor=0D1117" /></a>
 <a href="https://github.com/bichiouyahya">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0D1117" /></a>
