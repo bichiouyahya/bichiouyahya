@@ -210,10 +210,7 @@
   ✔ Cisco Cyber Threat Management
 
 [ IN PROGRESS ]
-  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  HTB CPTS  ::  exam window Sep 2026
-
-[ QUEUED ]
-  ░░░░░░░░░░░░░░░░░░░░  OSCP
+  ▓▓▓▓▓▓▓░░░░░░░░░░░░░ HTB CPTS
 ```
 
 ---
